@@ -1,0 +1,10 @@
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\bin\Debug\aula60.exe.config
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\bin\Debug\aula60.exe
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\bin\Debug\aula60.pdb
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\obj\Debug\aula60.csprojAssemblyReference.cache
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\obj\Debug\aula60.Properties.Resources.resources
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\obj\Debug\aula60.csproj.GenerateResource.cache
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\obj\Debug\aula60.csproj.CoreCompileInputs.cache
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\obj\Debug\aula60.exe
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\obj\Debug\aula60.pdb
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\Aulas visual studio\aula60\aula60\obj\Debug\aula60.F_Principal.resources

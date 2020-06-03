@@ -1,0 +1,13 @@
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\bin\Debug\netcoreapp3.1\aula02.exe
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\bin\Debug\netcoreapp3.1\aula02.deps.json
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\bin\Debug\netcoreapp3.1\aula02.runtimeconfig.json
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\bin\Debug\netcoreapp3.1\aula02.runtimeconfig.dev.json
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\bin\Debug\netcoreapp3.1\aula02.dll
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\bin\Debug\netcoreapp3.1\aula02.pdb
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\obj\Debug\netcoreapp3.1\aula02.csprojAssemblyReference.cache
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\obj\Debug\netcoreapp3.1\aula02.csproj.CoreCompileInputs.cache
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\obj\Debug\netcoreapp3.1\aula02.AssemblyInfoInputs.cache
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\obj\Debug\netcoreapp3.1\aula02.AssemblyInfo.cs
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\obj\Debug\netcoreapp3.1\aula02.dll
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\obj\Debug\netcoreapp3.1\aula02.pdb
+C:\Users\MD Mago\CsharpProjects\Programacao com linguagem c#\aula02\obj\Debug\netcoreapp3.1\aula02.genruntimeconfig.cache
