@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MD Mago\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MD Mago\\.nuget\\packages"
+    ]
+  }
+}
